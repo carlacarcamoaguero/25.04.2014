@@ -1,0 +1,147 @@
+img {
+
+
+  }
+
+
+input{
+  position: right;
+  float:right;
+  padding-top:0%;
+  padding-right:10%;
+  padding-bottom:0%;
+  padding-left:0%;
+  margin-top:20%;
+
+}
+body{
+  margin-top:0%;
+  margin-right:0%;
+  margin-bottom:0%;
+  margin-left:0%;
+
+  padding-top:0%;
+  padding-right:0%;
+  padding-bottom:10%;
+  padding-left:0%;
+
+  background-attachment: scroll;
+  background-color:gray;
+  background-image: ;
+  background-position:;
+  background-padding-left:24,5%;
+  background-padding-right:;  
+}
+
+
+ h2{ 
+  font-family: Helvetica;
+  color: #171313 ;
+  font-size: 200%;
+  background: none;
+  line-height: 130%;
+  padding-top:3%;
+  padding-right:20%;
+  padding-bottom:0%;
+  padding-left:27%;
+  text-align:center;
+}
+h3{
+  color: #555 ;
+  font-size: 100%;
+  font-family: Helvetica;
+  margin-left:40%;
+
+}  
+
+h4 {
+
+  padding-top:0%;
+  padding-right:31%;
+  padding-bottom:0%;
+  padding-left:35%;
+
+  font-family: Helvetica;
+  font-size:  80%;
+  font-style: normal;
+  font-variant: none;
+  font-weight: lighter;
+
+  color: white;
+  letter-spacing: normal;
+  line-height: 200%;
+  text-align:justify;
+  text-decoration: none ;
+
+  text-transform: none;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  white-space: normal;
+  word-spacing: normal;
+
+} 
+p {
+
+  padding-top:0%;
+  padding-right:33%;
+  padding-bottom:0%;
+  padding-left:38%;
+
+  font-family: Helvetica;
+  font-size:  70%;
+  font-style: normal;
+  font-variant: none;
+  font-weight: lighter;
+
+  color: black;
+  letter-spacing: normal;
+  line-height: 200%;
+  text-align:justify;
+  text-decoration: none ;
+
+  text-transform: none;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  white-space: normal;
+  word-spacing: normal;
+
+} 
+
+
+div {
+  margin-top:15%;
+  margin-right:5%;
+  margin-bottom:0%;
+  margin-left:83%;
+  position:fixed;
+
+}
+.menu_simple ul {
+  margin: 0;
+  padding: 0;
+  width:185px;
+  list-style-type: none;
+}
+.menu_simple ul li a {
+  text-decoration: none;
+  font-family: Helvetica;
+  font-size:  70%;
+  font-style: normal;
+  font-variant: none;
+  font-weight: lighter;
+  color: white;
+  padding: 10.5px 11px;
+  background-color: gray;
+  display:block;
+}
+.menu_simple ul li a:visited {
+  color: white;
+ 
+}
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+  color: gray;
+  background-color: white;
+}
+
+}
+
